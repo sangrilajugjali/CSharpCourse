@@ -1,8 +1,17 @@
 ﻿using System;
-class Program
+
+public class Program
 {
-    static void Main(string[]args)
-{
-Console.WriteLine("Hello, Rajan");
+    public static void Main(int a, int b)
+    {
+       /* Question1 question1 = new Question1();
+        question1.DisplayName();*/
+        
+       /* Question2 question2 = new Question2();
+        question2.Sum();*/
+
+        /*Question3 question3 = new Question3();
+        question3.Room();*/
+    }
 }
-}
+
