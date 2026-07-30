@@ -1,14 +1,16 @@
-using System;
+// Store the dimensions of a room and calculate its volume.
 
+
+using System;
 class Question3
 {
     public void Room()
     {
-        int l = 5;
-        int b = 10;
-        int h = 15;
-        int V;
-        V=l*b*h;
-        Console.WriteLine($"The volume of room is:{V}");
+        int length = 5;
+        int breath = 10;
+        int height = 15;
+        int volume;
+        volume=length*breath*height;
+        Console.WriteLine($"The volume of room is:{volume}");
     }
 }

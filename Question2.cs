@@ -1,3 +1,6 @@
+// Create two integer variables and print their sum.
+
+
 using System;
 class Question2
 {

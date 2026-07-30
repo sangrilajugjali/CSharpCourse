@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\class12\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\class_12 (not for other)\\C_sharp\\CSharpCourse\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\class12\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\class_12 (not for other)\\C_sharp\\CSharpCourse\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\class12\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\class_12 (not for other)\\C_sharp\\CSharpCourse\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\class12\\Documents\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\class12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\class12\\Documents\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "E:\\class_12 (not for other)\\C_sharp\\CSharpCourse\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "E:\\class_12 (not for other)\\C_sharp\\CSharpCourse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\class12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

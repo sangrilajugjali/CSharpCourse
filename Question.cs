@@ -1,518 +1,1041 @@
-// Beginner
-// 1.
+// // Beginner
+// // 1.
 
-// Declare variables to store your name, age, and city, then display them.
+// // Declare variables to store your name, age, and city, then display them.
 
-// 2.
+// // 2.
 
-// Create two integer variables and print their sum.
+// // Create two integer variables and print their sum.
 
-// 3.
+// // 3.
 
-// Declare three variables for Physics, Chemistry, and Mathematics marks, then calculate the total.
+// // Declare three variables for Physics, Chemistry, and Mathematics marks, then calculate the total.
 
-// 4.
+// // 4.
 
-// Store the radius of a circle in a variable and calculate the area.
+// // Store the radius of a circle in a variable and calculate the area.
 
-// 5.
+// // 5.
 
-// Swap the values of two variables using a third variable.
+// // Swap the values of two variables using a third variable.
 
-// 6.
+// // 6.
 
-// Swap two variables without using a third variable.
+// // Swap two variables without using a third variable.
 
-// 7.
+// // 7.
 
-// Store the length and breadth of a rectangle and calculate the perimeter.
+// // Store the length and breadth of a rectangle and calculate the perimeter.
 
-// Intermediate
-// 8.
+// // Intermediate
+// // 8.
 
-// Declare variables for principal, rate, and time, then calculate simple interest.
+// // Declare variables for principal, rate, and time, then calculate simple interest.
 
-// 9.
+// // 9.
 
-// Create variables for five subject marks and calculate the average.
+// // Create variables for five subject marks and calculate the average.
 
-// 10.
+// // 10.
 
-// Store the temperature in Celsius and convert it to Fahrenheit.
+// // Store the temperature in Celsius and convert it to Fahrenheit.
 
-// 11.
+// // 11.
 
-// Store the price and quantity of three products and calculate the total bill.
+// // Store the price and quantity of three products and calculate the total bill.
 
-// 12.
+// // 12.
 
-// Declare variables for employee name, basic salary, bonus, and tax, then calculate the net salary.
+// // Declare variables for employee name, basic salary, bonus, and tax, then calculate the net salary.
 
-// 13.
+// // 13.
 
-// Store a student's information (Name, Roll No, Faculty, GPA) and display it in a formatted report.
+// // Store a student's information (Name, Roll No, Faculty, GPA) and display it in a formatted report.
 
-// 14.
+// // 14.
 
-// Calculate compound interest using variables.
+// // Calculate compound interest using variables.
 
-// Advanced
-// 15.
+// // Advanced
+// // 15.
 
-// Create variables for hours, minutes, and seconds, then convert everything into total seconds.
+// // Create variables for hours, minutes, and seconds, then convert everything into total seconds.
 
-// 16.
+// // 16.
 
-// Store the dimensions of a room and calculate its volume.
+// // Store the dimensions of a room and calculate its volume.
 
-// 17.
+// // 17.
 
-// Create variables to calculate electricity bills based on consumed units.
+// // Create variables to calculate electricity bills based on consumed units.
 
-// 18.
+// // 18.
 
-// Store distances of three routes and determine the total travel distance.
+// // Store distances of three routes and determine the total travel distance.
 
-// 19.
+// // 19.
 
-// Calculate the Body Mass Index (BMI) using weight and height variables.
+// // Calculate the Body Mass Index (BMI) using weight and height variables.
 
-// 20.
+// // 20.
 
-// Create a mini payroll calculator using variables for salary, allowances, deductions, tax, and net salary.
+// // Create a mini payroll calculator using variables for salary, allowances, deductions, tax, and net salary.
 
-// 1.6 Identifiers (20 Coding Practice Questions)
-// Beginner
-// 1.
+// // 1.6 Identifiers (20 Coding Practice Questions)
+// // Beginner
+// // 1.
 
-// Create variables with meaningful identifier names for student information.
+// // Create variables with meaningful identifier names for student information.
 
-// 2.
+// // 2.
 
-// Write a program using descriptive identifiers for storing employee details.
+// // Write a program using descriptive identifiers for storing employee details.
 
-// 3.
+// // 3.
 
-// Declare variables using camelCase naming convention.
+// // Declare variables using camelCase naming convention.
 
-// 4.
+// // 4.
 
-// Create constants using PascalCase naming convention.
+// // Create constants using PascalCase naming convention.
 
-// 5.
+// // 5.
 
-// Create variables representing bank account information using meaningful names.
+// // Create variables representing bank account information using meaningful names.
 
-// 6.
+// // 6.
 
-// Declare variables for a library management system.
+// // Declare variables for a library management system.
 
-// 7.
+// // 7.
 
-// Create identifiers for vehicle information.
+// // Create identifiers for vehicle information.
 
-// Intermediate
-// 8.
+// // Intermediate
+// // 8.
 
-// Write a student grading program using meaningful identifiers only.
+// // Write a student grading program using meaningful identifiers only.
 
-// 9.
+// // 9.
 
-// Create a shopping bill calculator using descriptive variable names.
+// // Create a shopping bill calculator using descriptive variable names.
 
-// 10.
+// // 10.
 
-// Design identifiers for an online food ordering system.
+// // Design identifiers for an online food ordering system.
 
-// 11.
+// // 11.
 
-// Create identifiers for hospital patient records.
+// // Create identifiers for hospital patient records.
 
-// 12.
+// // 12.
 
-// Write a payroll program with properly named identifiers.
+// // Write a payroll program with properly named identifiers.
 
-// 13.
+// // 13.
 
-// Create identifiers for an inventory management system.
+// // Create identifiers for an inventory management system.
 
-// 14.
+// // 14.
 
-// Develop a hotel booking program using readable identifier names.
+// // Develop a hotel booking program using readable identifier names.
 
-// Advanced
-// 15.
+// // Advanced
+// // 15.
 
-// Create a banking transaction system with meaningful identifiers.
+// // Create a banking transaction system with meaningful identifiers.
 
-// 16.
+// // 16.
 
-// Develop a flight reservation program with standardized identifiers.
+// // Develop a flight reservation program with standardized identifiers.
 
-// 17.
+// // 17.
 
-// Design an e-commerce checkout system using proper naming conventions.
+// // Design an e-commerce checkout system using proper naming conventions.
 
-// 18.
+// // 18.
 
-// Create a school management system with professional identifier names.
+// // Create a school management system with professional identifier names.
 
-// 19.
+// // 19.
 
-// Build a student attendance system using consistent identifier naming.
+// // Build a student attendance system using consistent identifier naming.
 
-// 20.
+// // 20.
 
-// Refactor a poorly named program by replacing all variables with meaningful identifiers.
+// // Refactor a poorly named program by replacing all variables with meaningful identifiers.
 
-// 1.7 Keywords (20 Coding Practice Questions)
-// Beginner
-// 1.
+// // 1.7 Keywords (20 Coding Practice Questions)
+// // Beginner
+// // 1.
 
-// Write a program using the int keyword.
+// // Write a program using the int keyword.
 
-// 2.
+// // 2.
 
-// Create a program using the double keyword.
+// // Create a program using the double keyword.
 
-// 3.
+// // 3.
 
-// Declare variables using string, char, and bool keywords.
+// // Declare variables using string, char, and bool keywords.
 
-// 4.
+// // 4.
 
-// Use the const keyword to declare PI.
+// // Use the const keyword to declare PI.
 
-// 5.
+// // 5.
 
-// Create a class containing variables declared using different C# keywords.
+// // Create a class containing variables declared using different C# keywords.
 
-// 6.
+// // 6.
 
-// Write a program using the var keyword.
+// // Write a program using the var keyword.
 
-// 7.
+// // 7.
 
-// Declare and initialize variables using different built-in type keywords.
+// // Declare and initialize variables using different built-in type keywords.
 
-// Intermediate
-// 8.
+// // Intermediate
+// // 8.
 
-// Create a method using the void keyword.
+// // Create a method using the void keyword.
 
-// 9.
+// // 9.
 
-// Write a program using return inside methods.
+// // Write a program using return inside methods.
 
-// 10.
+// // 10.
 
-// Use if, else, and return together.
+// // Use if, else, and return together.
 
-// 11.
+// // 11.
 
-// Write a program demonstrating the new keyword.
+// // Write a program demonstrating the new keyword.
 
-// 12.
+// // 12.
 
-// Use this keyword inside a class.
+// // Use this keyword inside a class.
 
-// 13.
+// // 13.
 
-// Write a program using base in inheritance.
+// // Write a program using base in inheritance.
 
-// 14.
+// // 14.
 
-// Create an example using readonly fields.
+// // Create an example using readonly fields.
 
-// Advanced
-// 15.
+// // Advanced
+// // 15.
 
-// Develop a program using static members.
+// // Develop a program using static members.
 
-// 16.
+// // 16.
 
-// Create an abstract class using the abstract keyword.
+// // Create an abstract class using the abstract keyword.
 
-// 17.
+// // 17.
 
-// Write a program implementing an interface using the interface keyword.
+// // Write a program implementing an interface using the interface keyword.
 
-// 18.
+// // 18.
 
-// Use try, catch, finally, and throw in one program.
+// // Use try, catch, finally, and throw in one program.
 
-// 19.
+// // 19.
 
-// Create a simple program demonstrating the lock keyword.
+// // Create a simple program demonstrating the lock keyword.
 
-// 20.
+// // 20.
 
-// Develop a console application utilizing multiple C# keywords together (const, static, readonly, new, this, base, abstract, interface, override).
+// // Develop a console application utilizing multiple C# keywords together (const, static, readonly, new, this, base, abstract, interface, override).
 
-// 1.8 Data Types (20 Coding Practice Questions)
-// Beginner
-// 1.
+// // 1.8 Data Types (20 Coding Practice Questions)
+// // Beginner
+// // 1.
 
-// Declare one variable of every primitive data type and display their values.
+// // Declare one variable of every primitive data type and display their values.
 
-// 2.
+// // 2.
 
-// Store an integer and display its square.
+// // Store an integer and display its square.
 
-// 3.
+// // 3.
 
-// Store a decimal number and calculate GST/VAT.
+// // Store a decimal number and calculate GST/VAT.
 
-// 4.
+// // 4.
 
-// Store a character and display its ASCII value.
+// // Store a character and display its ASCII value.
 
-// 5.
+// // 5.
 
-// Store a Boolean value representing voting eligibility.
+// // Store a Boolean value representing voting eligibility.
 
-// 6.
+// // 6.
 
-// Create variables using byte, short, int, and long.
+// // Create variables using byte, short, int, and long.
 
-// 7.
+// // 7.
 
-// Compare storage capacities by assigning suitable values to different integer data types.
+// // Compare storage capacities by assigning suitable values to different integer data types.
 
-// Intermediate
-// 8.
+// // Intermediate
+// // 8.
 
-// Create a calculator using int and double.
+// // Create a calculator using int and double.
 
-// 9.
+// // 9.
 
-// Calculate average marks using float.
+// // Calculate average marks using float.
 
-// 10.
+// // 10.
 
-// Store a bank balance using decimal.
+// // Store a bank balance using decimal.
 
-// 11.
+// // 11.
 
-// Write a program demonstrating overflow of byte.
+// // Write a program demonstrating overflow of byte.
 
-// 12.
+// // 12.
 
-// Store Unicode characters using char.
+// // Store Unicode characters using char.
 
-// 13.
+// // 13.
 
-// Use nullable data types to store optional values.
+// // Use nullable data types to store optional values.
 
-// 14.
+// // 14.
 
-// Write a program displaying the MinValue and MaxValue of each numeric data type.
+// // Write a program displaying the MinValue and MaxValue of each numeric data type.
 
-// Advanced
-// 15.
+// // Advanced
+// // 15.
 
-// Build a banking application using decimal for financial calculations.
+// // Build a banking application using decimal for financial calculations.
 
-// 16.
+// // 16.
 
-// Create a scientific calculator using double.
+// // Create a scientific calculator using double.
 
-// 17.
+// // 17.
 
-// Write a program comparing float, double, and decimal precision.
+// // Write a program comparing float, double, and decimal precision.
 
-// 18.
+// // 18.
 
-// Create an application using multiple data types to manage employee information.
+// // Create an application using multiple data types to manage employee information.
 
-// 19.
+// // 19.
 
-// Develop a grading system utilizing different numeric data types appropriately.
+// // Develop a grading system utilizing different numeric data types appropriately.
 
-// 20.
+// // 20.
 
-// Create a data validation program that selects the most suitable data type for each input.
+// // Create a data validation program that selects the most suitable data type for each input.
 
-// 1.9 Type Conversion (20 Coding Practice Questions)
-// Beginner
-// 1.
+// // 1.9 Type Conversion (20 Coding Practice Questions)
+// // Beginner
+// // 1.
 
-// Convert an int into a double.
+// // Convert an int into a double.
 
-// 2.
+// // 2.
 
-// Convert a char into an int.
+// // Convert a char into an int.
 
-// 3.
+// // 3.
 
-// Convert an int into a long.
+// // Convert an int into a long.
 
-// 4.
+// // 4.
 
-// Convert a float into a double.
+// // Convert a float into a double.
 
-// 5.
+// // 5.
 
-// Convert a byte into an int.
+// // Convert a byte into an int.
 
-// 6.
+// // 6.
 
-// Convert an integer into a decimal.
+// // Convert an integer into a decimal.
 
-// 7.
+// // 7.
 
-// Convert an integer into a string.
+// // Convert an integer into a string.
 
-// Intermediate
-// 8.
+// // Intermediate
+// // 8.
 
-// Convert a string entered by the user into an integer.
+// // Convert a string entered by the user into an integer.
 
-// 9.
+// // 9.
 
-// Convert a string into a double using Convert.ToDouble().
+// // Convert a string into a double using Convert.ToDouble().
 
-// 10.
+// // 10.
 
-// Convert a string into an integer using int.Parse().
+// // Convert a string into an integer using int.Parse().
 
-// 11.
+// // 11.
 
-// Convert a string into an integer using int.TryParse().
+// // Convert a string into an integer using int.TryParse().
 
-// 12.
+// // 12.
 
-// Convert a double into an integer using explicit casting.
+// // Convert a double into an integer using explicit casting.
 
-// 13.
+// // 13.
 
-// Convert a decimal into a float.
+// // Convert a decimal into a float.
 
-// 14.
+// // 14.
 
-// Create a unit converter requiring multiple type conversions.
+// // Create a unit converter requiring multiple type conversions.
 
-// Advanced
-// 15.
+// // Advanced
+// // 15.
 
-// Read user input and safely convert it into different numeric types.
+// // Read user input and safely convert it into different numeric types.
 
-// 16.
+// // 16.
 
-// Create a calculator accepting all inputs as strings and converting them before calculations.
+// // Create a calculator accepting all inputs as strings and converting them before calculations.
 
-// 17.
+// // 17.
 
-// Demonstrate data loss during explicit conversion.
+// // Demonstrate data loss during explicit conversion.
 
-// 18.
+// // 18.
 
-// Write a currency converter using type conversions.
+// // Write a currency converter using type conversions.
 
-// 19.
+// // 19.
 
-// Create an application validating user input using TryParse() before processing.
+// // Create an application validating user input using TryParse() before processing.
 
-// 20.
+// // 20.
 
-// Build a menu-driven program that performs all major implicit and explicit type conversions.
+// // Build a menu-driven program that performs all major implicit and explicit type conversions.
 
-// 1.10 Operators (20 Coding Practice Questions)
-// Beginner
-// Arithmetic Operators
-// 1.
+// // 1.10 Operators (20 Coding Practice Questions)
+// // Beginner
+// // Arithmetic Operators
+// // 1.
 
-// Create a calculator that performs addition.
+// // Create a calculator that performs addition.
 
-// 2.
+// // 2.
 
-// Perform subtraction, multiplication, division, and modulus between two numbers.
+// // Perform subtraction, multiplication, division, and modulus between two numbers.
 
-// 3.
+// // 3.
 
-// Calculate the remainder after dividing two integers.
+// // Calculate the remainder after dividing two integers.
 
-// 4.
+// // 4.
 
-// Calculate the average of three numbers.
+// // Calculate the average of three numbers.
 
-// Assignment Operators
-// 5.
+// // Assignment Operators
+// // 5.
 
-// Demonstrate all assignment operators (=, +=, -=, *=, /=, %=).
+// // Demonstrate all assignment operators (=, +=, -=, *=, /=, %=).
 
-// Increment/Decrement
-// 6.
+// // Increment/Decrement
+// // 6.
 
-// Demonstrate pre-increment and post-increment.
+// // Demonstrate pre-increment and post-increment.
 
-// 7.
+// // 7.
 
-// Demonstrate pre-decrement and post-decrement.
+// // Demonstrate pre-decrement and post-decrement.
 
-// Intermediate
-// Relational Operators
-// 8.
+// // Intermediate
+// // Relational Operators
+// // 8.
 
-// Compare two numbers using all relational operators.
+// // Compare two numbers using all relational operators.
 
-// 9.
+// // 9.
 
-// Determine the largest among two numbers using comparison operators.
+// // Determine the largest among two numbers using comparison operators.
 
-// Logical Operators
-// 10.
+// // Logical Operators
+// // 10.
 
-// Check whether a person is eligible to vote using logical operators.
+// // Check whether a person is eligible to vote using logical operators.
 
-// 11.
+// // 11.
 
-// Check admission eligibility based on multiple conditions.
+// // Check admission eligibility based on multiple conditions.
 
-// 12.
+// // 12.
 
-// Validate login credentials using logical operators.
+// // Validate login credentials using logical operators.
 
-// Conditional Operator
-// 13.
+// // Conditional Operator
+// // 13.
 
-// Find the larger of two numbers using the ternary (?:) operator.
+// // Find the larger of two numbers using the ternary (?:) operator.
 
-// 14.
+// // 14.
 
-// Determine whether a number is even or odd using the conditional operator.
+// // Determine whether a number is even or odd using the conditional operator.
 
-// Advanced
-// Bitwise Operators
-// 15.
+// // Advanced
+// // Bitwise Operators
+// // 15.
 
-// Perform bitwise AND, OR, XOR, and NOT operations on two integers.
+// // Perform bitwise AND, OR, XOR, and NOT operations on two integers.
 
-// 16.
+// // 16.
 
-// Demonstrate left shift (<<) and right shift (>>) operators.
+// // Demonstrate left shift (<<) and right shift (>>) operators.
 
-// Combined Operators
-// 17.
+// // Combined Operators
+// // 17.
 
-// Create a scientific calculator using arithmetic, assignment, relational, and logical operators.
+// // Create a scientific calculator using arithmetic, assignment, relational, and logical operators.
 
-// 18.
+// // 18.
 
-// Develop a grading system using relational, logical, and conditional operators.
+// // Develop a grading system using relational, logical, and conditional operators.
 
-// 19.
+// // 19.
 
-// Create a salary processing program using arithmetic, assignment, comparison, and conditional operators.
+// // Create a salary processing program using arithmetic, assignment, comparison, and conditional operators.
 
-// 20.
+// // 20.
 
-// Build a menu-driven calculator that demonstrates all of the following operators:
+// // Build a menu-driven calculator that demonstrates all of the following operators:
 
-// Arithmetic (+, -, *, /, %)
-// Assignment (=, +=, -=, *=, /=, %=)
-// Relational (==, !=, >, <, >=, <=)
-// Logical (&&, ||, !)
-// Increment/Decrement (++, --)
-// Conditional (?:)
-// Bitwise (&, |, ^, ~, <<, >>)
+// // Arithmetic (+, -, *, /, %)
+// // Assignment (=, +=, -=, *=, /=, %=)
+// // Relational (==, !=, >, <, >=, <=)
+// // Logical (&&, ||, !)
+// // Increment/Decrement (++, --)
+// // Conditional (?:)
+// // Bitwise (&, |, ^, ~, <<, >>)
+
+
+
+
+
+// Below are **50 C# coding practice questions** focused on **control statements**. The questions are arranged from **Beginner → Intermediate → Advanced → Challenge Level**. They cover:
+
+// * Decision-making statements (`if`, `if-else`, `else if`, `switch`)
+// * Loops (`for`, `while`, `do-while`, `foreach`)
+// * Jump statements (`break`, `continue`, `return`, `goto`)
+// * Nested loops
+// * Pattern-based problems
+// * Logical thinking
+// * Menu-driven programs
+
+// ---
+
+// # Level 1: Beginner (Questions 1–15)
+
+// ## 1. Positive, Negative or Zero
+
+// Write a program to input a number and determine whether it is:
+
+// * Positive
+// * Negative
+// * Zero
+
+// ---
+
+// ## 2. Even or Odd
+
+// Write a C# program that checks whether a given integer is even or odd.
+
+// ---
+
+// ## 3. Largest of Two Numbers
+
+// Input two integers and display the larger one.
+
+// ---
+
+// ## 4. Smallest of Two Numbers
+
+// Write a program to find the smaller of two numbers.
+
+// ---
+
+// ## 5. Voting Eligibility
+
+// Input age and determine whether a person is eligible to vote (18 or above).
+
+// ---
+
+// ## 6. Divisible by 5
+
+// Check whether a number is divisible by 5.
+
+// ---
+
+// ## 7. Divisible by 5 and 11
+
+// Determine whether a number is divisible by both 5 and 11.
+
+// ---
+
+// ## 8. Leap Year
+
+// Input a year and determine whether it is a leap year.
+
+// ---
+
+// ## 9. Greatest of Three Numbers
+
+// Find the largest among three numbers using nested if.
+
+// ---
+
+// ## 10. Smallest of Three Numbers
+
+// Find the smallest among three numbers.
+
+// ---
+
+// ## 11. Character Type
+
+// Input one character and determine whether it is:
+
+// * Uppercase
+// * Lowercase
+// * Digit
+// * Special character
+
+// ---
+
+// ## 12. Vowel or Consonant
+
+// Input a character and determine whether it is a vowel or consonant.
+
+// ---
+
+// ## 13. Pass or Fail
+
+// Input marks.
+// If marks are 40 or above, display "Pass"; otherwise display "Fail".
+
+// ---
+
+// ## 14. Grade Calculator
+
+// Assign grades:
+
+// * A (90–100)
+// * B (80–89)
+// * C (70–79)
+// * D (60–69)
+// * E (40–59)
+// * F (<40)
+
+// ---
+
+// ## 15. Number Sign using Switch
+
+// Use switch statement to display:
+
+// * Positive
+// * Negative
+// * Zero
+
+// (Hint: Use comparison result.)
+
+// ---
+
+// # Level 2: Basic Loop Problems (Questions 16–30)
+
+// ## 16. Print Numbers 1 to 10
+
+// Using for loop.
+
+// ---
+
+// ## 17. Print Numbers 10 to 1
+
+// Using while loop.
+
+// ---
+
+// ## 18. Print Even Numbers
+
+// Display all even numbers from 1 to 100.
+
+// ---
+
+// ## 19. Print Odd Numbers
+
+// Display all odd numbers from 1 to 100.
+
+// ---
+
+// ## 20. Sum of First N Numbers
+
+// Input N and calculate:
+
+// ```
+// 1 + 2 + 3 + ... + N
+// ```
+
+// ---
+
+// ## 21. Factorial
+
+// Calculate factorial of a number.
+
+// Example:
+
+// ```
+// 5! = 120
+// ```
+
+// ---
+
+// ## 22. Multiplication Table
+
+// Display multiplication table of a given number.
+
+// Example:
+
+// ```
+// 7 x 1 = 7
+// ...
+// 7 x 10 = 70
+// ```
+
+// ---
+
+// ## 23. Count Digits
+
+// Input a number and count its digits.
+
+// ---
+
+// ## 24. Sum of Digits
+
+// Find the sum of digits of an integer.
+
+// ---
+
+// ## 25. Reverse a Number
+
+// Example:
+
+// ```
+// 12345
+
+// Output
+
+// 54321
+// ```
+
+// ---
+
+// ## 26. Palindrome Number
+
+// Check whether a number is palindrome.
+
+// Example:
+
+// ```
+// 121
+
+// Output
+
+// Palindrome
+// ```
+
+// ---
+
+// ## 27. Armstrong Number
+
+// Check whether a number is Armstrong.
+
+// Example:
+
+// ```
+// 153
+// ```
+
+// ---
+
+// ## 28. Prime Number
+
+// Determine whether a number is prime.
+
+// ---
+
+// ## 29. Print All Prime Numbers
+
+// Display all prime numbers from 1 to N.
+
+// ---
+
+// ## 30. Fibonacci Series
+
+// Display first N Fibonacci numbers.
+
+// ---
+
+// # Level 3: Intermediate Control Statements (Questions 31–40)
+
+// ## 31. Menu Driven Calculator
+
+// Using switch statement create:
+
+// ```
+// 1. Add
+// 2. Subtract
+// 3. Multiply
+// 4. Divide
+// 5. Exit
+// ```
+
+// ---
+
+// ## 32. Number Guessing Game
+
+// Generate a fixed secret number.
+// Use while loop until user guesses correctly.
+
+// ---
+
+// ## 33. Password Verification
+
+// Allow maximum three attempts to enter the correct password.
+
+// ---
+
+// ## 34. ATM Menu
+
+// Create menu:
+
+// ```
+// 1. Balance
+// 2. Deposit
+// 3. Withdraw
+// 4. Exit
+// ```
+
+// Use switch and loops.
+
+// ---
+
+// ## 35. Find Largest Until Zero
+
+// Keep accepting numbers until user enters 0.
+// Display the largest number.
+
+// ---
+
+// ## 36. Sum Until Negative Number
+
+// Continue taking input until negative number is entered.
+
+// Display total sum.
+
+// ---
+
+// ## 37. Skip Multiples of 3
+
+// Print numbers from 1 to 100.
+// Skip multiples of 3 using continue.
+
+// ---
+
+// ## 38. Stop at First Multiple of 17
+
+// Print numbers from 1 onwards.
+// Stop when multiple of 17 appears.
+
+// Use break.
+
+// ---
+
+// ## 39. Print Numbers Except Between 40–60
+
+// Print 1–100.
+// Skip numbers from 40 to 60.
+
+// ---
+
+// ## 40. Simple Login System
+
+// Allow five login attempts.
+// Terminate after successful login or after five failures.
+
+// ---
+
+// # Level 4: Nested Loop Problems (Questions 41–45)
+
+// ## 41. Square Pattern
+
+// ```
+// *****
+// *****
+// *****
+// *****
+// *****
+// ```
+
+// ---
+
+// ## 42. Right Triangle
+
+// ```
+// *
+// **
+// ***
+// ****
+// *****
+// ```
+
+// ---
+
+// ## 43. Reverse Triangle
+
+// ```
+// *****
+// ****
+// ***
+// **
+// *
+// ```
+
+// ---
+
+// ## 44. Pyramid
+
+// ```
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+// ```
+
+// ---
+
+// ## 45. Multiplication Table Grid
+
+// ```
+// 1 2 3 4 5
+// 2 4 6 8 10
+// 3 6 9 12 15
+// ...
+// ```
+
+// ---
+
+// # Level 5: Advanced Control Statement Challenges (Questions 46–50)
+
+// ## 46. Number Classification
+
+// Input N numbers.
+
+// Count:
+
+// * Positive
+// * Negative
+// * Zero
+// * Even
+// * Odd
+
+// Display all counts.
+
+// ---
+
+// ## 47. Student Result Processing
+
+// Input marks of N students.
+
+// Display:
+
+// * Highest marks
+// * Lowest marks
+// * Average
+// * Number Passed
+// * Number Failed
+
+// ---
+
+// ## 48. Electricity Bill
+
+// Calculate bill based on slabs:
+
+// ```
+// 0–100
+// 101–200
+// 201–500
+// Above 500
+// ```
+
+// Use nested if.
+
+// ---
+
+// ## 49. Traffic Signal Simulator
+
+// Create a menu using switch:
+
+// ```
+// 1. Red
+// 2. Yellow
+// 3. Green
+// ```
+
+// Display corresponding instruction:
+
+// * Stop
+// * Wait
+// * Go
+
+// Repeat until Exit is selected.
+
+// ---
+
+// ## 50. Mini Banking System
+
+// Using loops, switch, and decision statements, implement:
+
+// Menu:
+
+// ```
+// 1. Deposit
+// 2. Withdraw
+// 3. Balance Inquiry
+// 4. Transfer
+// 5. Transaction History
+// 6. Exit
+// ```
+
+// Requirements:
+
+// * Prevent overdraft.
+// * Validate amounts.
+// * Repeat menu until Exit.
+// * Use appropriate control statements (`if`, `switch`, loops, `break`, `continue`, `return`).
+
+// ---
+
+// # Bonus Challenge Questions
+
+// If you finish the above, try these more advanced exercises:
+
+// 1. Rock–Paper–Scissors game.
+// 2. Tic-Tac-Toe (Console).
+// 3. Snake and Ladder (Console).
+// 4. Quiz application with score tracking.
+// 5. Hangman game.
+// 6. Number guessing game with difficulty levels.
+// 7. Maze solver using nested loops.
+// 8. Sudoku input validator.
+// 9. Console-based inventory management system.
+// 10. Banking management system with multiple accounts.
+
+// These 50 questions progressively develop your mastery of C# control statements, preparing you for academic exams, coding interviews, and real-world programming tasks.
