@@ -16,8 +16,20 @@ public class Program
        /* Question4 question4 = new Question4();
         question4.Marks();*/
         
-        Question5 question5 = new Question5();
-        question5.FindPNZ();
+        /* Question5 question5 = new Question5();
+        question5.FindPNZ(); */
+
+       /* Question6 question6 = new Question6();
+        question6.EvenOdd(); */
+
+       /* Question7 question7 = new Question7();
+        question7.Larger(); */
+
+        /* Question8 question8 = new Question8();
+        question8.Smaller(); */
+        
+        /* Question9 question9 = new Question9();
+        question9.Age(); */
 
     }
 }

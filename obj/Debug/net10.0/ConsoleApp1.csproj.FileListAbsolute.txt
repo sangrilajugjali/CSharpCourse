@@ -21,3 +21,10 @@ E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\ConsoleApp1.s
 E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\ConsoleApp1.dll
 E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\refint\ConsoleApp1.dll
 E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\ConsoleApp1.pdb
+E:\class_12 (not for other)\C_sharp\CSharpCourse\bin\Debug\net10.0\ConsoleApp1.exe
+E:\class_12 (not for other)\C_sharp\CSharpCourse\bin\Debug\net10.0\ConsoleApp1.deps.json
+E:\class_12 (not for other)\C_sharp\CSharpCourse\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+E:\class_12 (not for other)\C_sharp\CSharpCourse\bin\Debug\net10.0\ConsoleApp1.dll
+E:\class_12 (not for other)\C_sharp\CSharpCourse\bin\Debug\net10.0\ConsoleApp1.pdb
+E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+E:\class_12 (not for other)\C_sharp\CSharpCourse\obj\Debug\net10.0\ref\ConsoleApp1.dll
