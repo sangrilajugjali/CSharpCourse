@@ -31,6 +31,12 @@ public class Program
         /* Question9 question9 = new Question9();
         question9.Age(); */
 
+        /* Question10 question10 = new Question10();
+        question10.Divisible(); */
+
+        Employee employee = new Employee();
+        employee.Salary();
+
     }
 }
 

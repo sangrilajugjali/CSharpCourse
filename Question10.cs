@@ -15,7 +15,7 @@ class Question10
         }
         else 
         {
-            Console.WriteLine("{num} is not divisible by 5");
+            Console.WriteLine($"{num} is not divisible by 5");
         }
     }
 }
