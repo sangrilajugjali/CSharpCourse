@@ -34,9 +34,11 @@ public class Program
         /* Question10 question10 = new Question10();
         question10.Divisible(); */
 
-        Employee employee = new Employee();
-        employee.Salary();
+        /* Employee employee = new Employee();
+        employee.Salary(); */
 
+        FunctionQuestion1 function = new FunctionQuestion1 ();
+        function.DisplayStudent();
     }
 }
 
