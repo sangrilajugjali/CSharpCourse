@@ -37,8 +37,17 @@ public class Program
         /* Employee employee = new Employee();
         employee.Salary(); */
 
-        FunctionQuestion1 function = new FunctionQuestion1 ();
-        function.DisplayStudent();
-    }
+       /* FunctionQuestion1 function = new FunctionQuestion1 ();
+        function.DisplayStudent(); */
+
+        /* FunctionQuestion2 function2 = new FunctionQuestion2 ();
+        function2.MultiplicationTable(); */
+
+        /* FunctionQuestion3 function3 = new FunctionQuestion3();
+        function3.GetWelcomeMessage(); */
+
+        FunctionQuestion4 function4 = new FunctionQuestion4();
+        function4.TwoNumber();
+}
 }
 

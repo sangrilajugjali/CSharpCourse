@@ -8,6 +8,13 @@ class FunctionQuestion2
 {
     public void MultiplicationTable()
     {
+        for(int b = 1 ; b <= 10; b ++ )
+        {
+            int multiple = 5 * b ;
+            Console.WriteLine($" 5 * {b} = {multiple} ");
+
+        }
+        
         
     }
 }
