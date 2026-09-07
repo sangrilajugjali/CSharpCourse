@@ -4,10 +4,10 @@
 using System;
 class FunctionQuestion4
 {
-    public void TwoNumber(int a , int b)
+    public void CalculateSum(int a , int b)
     {
         
         int sum = a+b;
-        Console.WriteLine($"{5} + {8} = {sum}");
-    }
+        
+    } 
 }

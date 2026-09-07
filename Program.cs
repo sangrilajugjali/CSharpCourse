@@ -46,8 +46,10 @@ public class Program
         /* FunctionQuestion3 function3 = new FunctionQuestion3();
         function3.GetWelcomeMessage(); */
 
-        FunctionQuestion4 function4 = new FunctionQuestion4();
-        function4.TwoNumber();
-}
+        Array array = new Array();
+        array.Elements();
+
+    }
+        
 }
 
