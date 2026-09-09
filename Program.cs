@@ -46,8 +46,11 @@ public class Program
         /* FunctionQuestion3 function3 = new FunctionQuestion3();
         function3.GetWelcomeMessage(); */
 
-        Array array = new Array();
-        array.Elements();
+        /* Array array = new Array();
+        array.Elements(); */
+
+        Array2 array2 = new Array2();
+        array2.User();
 
     }
         
