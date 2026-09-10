@@ -1,23 +1,23 @@
 using System;
-class array3
+class Array3
 {
     public void display()
     {
         Console.Write("Enter how many element you want to store : ");
         int size = int.Parse(Console.ReadLine());
 
-         decimal [] arrayDecimal = new decimal[size];
+         double[] arrayDouble = new double [size];
 
          Console.WriteLine("Enter the element of arrays : ");
 
-         for (int i = 0; i < arrayDecimal.Length; i++)
+         for (int i = 0; i < arrayDouble.Length; i++)
         {
             Console.Write($"Enter elements {i + 1}: ");
-            arrayDecimal[i]= Console.ReadLine();
+            arrayDouble[i]=double.Parse( Console.ReadLine());
         }
         Console.WriteLine("\nArray elements are :");
 
-        foreach (decimal element in arrayDecimal)
+        foreach (double element in arrayDouble)
         {
             Console.WriteLine(element);
         }

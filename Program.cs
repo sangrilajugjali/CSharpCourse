@@ -52,6 +52,9 @@ public class Program
         Array2 array2 = new Array2();
         array2.User();
 
+        Array3 array3 = new Array3();
+        array3.display();
+
     }
         
 }
