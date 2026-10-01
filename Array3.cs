@@ -4,7 +4,7 @@ class Array3
     public void display()
     {
         Console.Write("Enter how many element you want to store : ");
-        int size = int.Parse(Console.ReadLine());
+        int size = int.Parse(Console.ReadLine()!);
 
          double[] arrayDouble = new double [size];
 

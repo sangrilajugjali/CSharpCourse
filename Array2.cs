@@ -5,7 +5,7 @@ class Array2
     public void User()
     {
         Console.Write("Enter how many elements you want to store :");
-        int size = int.Parse(Console.ReadLine());
+        int size = int.Parse(Console.ReadLine()!);
 
         string[] arrayString = new string[size];
 
